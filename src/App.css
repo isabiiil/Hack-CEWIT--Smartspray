@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  margin: 0;}
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Montserrat', sans-serif;
+}
+
+a, a:hover, a:visited, a:active{
+  color:inherit;
+  text-decoration: none;
+}
+a, p{
+  font-family: 'Open Sans', sans-serif;
+}
+.Login {
+  /* padding: 60px 0; */
+  /* height: 100%; */
+  position: absolute;
+  top: 20%;
+  left: 42%;
+}
+
+.Login form {
+  margin: 0 auto;
+  max-width: 400px;
+}
